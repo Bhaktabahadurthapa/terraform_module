@@ -1,4 +1,4 @@
-# terraform_module
+# Terraform_module
 A **"module" in Terraform** is a reusable block of configuration code that groups related infrastructure resources together, allowing you to easily manage complex infrastructure by breaking it down into smaller, logical units, promoting code reusability, consistency, and easier maintenance across different projects. 
 
 `Key reasons to use modules in Terraform:`
